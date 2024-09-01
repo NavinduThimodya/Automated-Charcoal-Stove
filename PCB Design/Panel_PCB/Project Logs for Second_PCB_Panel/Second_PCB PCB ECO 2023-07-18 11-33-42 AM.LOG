@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=R? NewDesignator=MODE R
+Change Component Designator: OldDesignator=R? NewDesignator=Temp + R
+Change Component Designator: OldDesignator=R? NewDesignator=Temp - R
+Change Component Designator: OldDesignator=R? NewDesignator=Timer + R
+Change Component Designator: OldDesignator=R? NewDesignator=Timer - R
+Change Component Designator: OldDesignator=R? NewDesignator=Timer Off R
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetTimer - R_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetTimer + R_2
+Added Pin To Net: NetName=NetTemp + R_1 Pin=Temp +-1
+Added Pin To Net: NetName=NetTemp + R_1 Pin=Temp + R-1
+Added Pin To Net: NetName=NetTemp + R_1 Pin=Temperature-1
+Added Net: Name=NetTemp + R_1
+Added Pin To Net: NetName=NetTemp - R_2 Pin=Temp --3
+Added Pin To Net: NetName=NetTemp - R_2 Pin=Temp - R-2
+Added Pin To Net: NetName=NetTemp - R_2 Pin=Temperature-6
+Added Net: Name=NetTemp - R_2
+Added Member To Class: ClassName=Second_PCB Member=Component MODE R 1623928-4
+Added Member To Class: ClassName=Second_PCB Member=Component Temp + R 1623928-4
+Added Member To Class: ClassName=Second_PCB Member=Component Temp - R 1623928-4
+Added Member To Class: ClassName=Second_PCB Member=Component Timer + R 1623928-4
+Added Member To Class: ClassName=Second_PCB Member=Component Timer Off R 1623928-4

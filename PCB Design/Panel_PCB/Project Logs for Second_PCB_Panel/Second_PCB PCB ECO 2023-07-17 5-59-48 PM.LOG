@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetTimer -_1 Pin=Timer -2
+Removed Pin From Net: NetName=Vcc Pin=Timer -5
+Removed Pin From Net: NetName=GND Pin=Timer -6
+Removed Pin From Net: NetName=NetTimer _3 Pin=Timer Display-1
+Added Pin To Net: NetName=Vcc Pin=Timer -4
+Added Pin To Net: NetName=GND Pin=Timer -5
+Added Pin To Net: NetName=NetTimer -_1 Pin=Timer -6
+Added Pin To Net: NetName=NetTimer _3 Pin=Timer Display-2
+Added Pin To Net: NetName=NetTimer _2 Pin=Timer -2
+Added Pin To Net: NetName=NetTimer _2 Pin=Timer Display-1
+Added Net: Name=NetTimer _2

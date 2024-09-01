@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=5V Regulator NewDesignator=7805
+Change Component Designator: OldDesignator=Motor Driver NewDesignator=Motor Error Power
+Change Component Designator: OldDesignator=Oscillator  NewDesignator=16.0MHz
+Change Component Designator: OldDesignator=R6 NewDesignator=R6666666666666
+Add Component: Footprint Not Found RESAD700W45L350D185
+Added Member To Class: ClassName=PCB_Schematic Member=Component 16.0MHz ABL-16.000MHz-B4Y-T
+Add Class Member: Failed to add class member : Component R? 1623928-4

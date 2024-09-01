@@ -1,0 +1,66 @@
+Change Component Footprint: Designator=Motor Error Power Old Footprint=TECO-640445-4_V New Footprint=JST-S4B-XH-A(LF)(SN)_V
+Change Component Footprint: Designator=Temp Changer Old Footprint=TECO-640445-4_V New Footprint=JST-S4B-XH-A(LF)(SN)_V
+Change Component Footprint: Designator=Temp Display Old Footprint=TECO-640445-4_V New Footprint=JST-S4B-XH-A(LF)(SN)_V
+Change Component Footprint: Designator=Temp Module Old Footprint=TECO-640445-4_V New Footprint=JST-S4B-XH-A(LF)(SN)_V
+Change Component Footprint: Designator=Timer Changer Old Footprint=TECO-640445-4_V New Footprint=JST-S4B-XH-A(LF)(SN)_V
+Change Component Footprint: Designator=Timer Display Old Footprint=TECO-640445-4_V New Footprint=JST-S4B-XH-A(LF)(SN)_V
+Change Component Comment : Designator=Motor Error Power Old Comment=640445-4 New Comment=S4B-XH-A(LF)(SN)
+Change Component Comment : Designator=Temp Changer Old Comment=640445-4 New Comment=S4B-XH-A(LF)(SN)
+Change Component Comment : Designator=Temp Display Old Comment=640445-4 New Comment=S4B-XH-A(LF)(SN)
+Change Component Comment : Designator=Temp Module Old Comment=640445-4 New Comment=S4B-XH-A(LF)(SN)
+Change Component Comment : Designator=Timer Changer Old Comment=640445-4 New Comment=S4B-XH-A(LF)(SN)
+Change Component Comment : Designator=Timer Display Old Comment=640445-4 New Comment=S4B-XH-A(LF)(SN)
+Change Managed Component Library Link : Designator=Motor Error Power Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=ED06A17E-5633-4B23-84AD-A0CFE1C3F911 Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=CC1DB407-C97D-41FC-A46B-C9A79C47DF76
+Change Managed Component Library Link : Designator=Temp Changer Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=ED06A17E-5633-4B23-84AD-A0CFE1C3F911 Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=CC1DB407-C97D-41FC-A46B-C9A79C47DF76
+Change Managed Component Library Link : Designator=Temp Display Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=ED06A17E-5633-4B23-84AD-A0CFE1C3F911 Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=CC1DB407-C97D-41FC-A46B-C9A79C47DF76
+Change Managed Component Library Link : Designator=Temp Module Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=ED06A17E-5633-4B23-84AD-A0CFE1C3F911 Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=CC1DB407-C97D-41FC-A46B-C9A79C47DF76
+Change Managed Component Library Link : Designator=Timer Changer Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=ED06A17E-5633-4B23-84AD-A0CFE1C3F911 Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=CC1DB407-C97D-41FC-A46B-C9A79C47DF76
+Change Managed Component Library Link : Designator=Timer Display Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=ED06A17E-5633-4B23-84AD-A0CFE1C3F911 Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=CC1DB407-C97D-41FC-A46B-C9A79C47DF76
+Change component parameters: Designator = "Motor Error Power" ("Motor Error Power"); Footprint = "TECO-640445-4_V"; UniqueID = "\LOKRSMYC" ("\LOKRSMYC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "May-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2.5 mm, 1 x 4 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Temp Changer" ("Temp Changer"); Footprint = "TECO-640445-4_V"; UniqueID = "\IMVABEIA" ("\IMVABEIA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "May-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2.5 mm, 1 x 4 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Temp Display" ("Temp Display"); Footprint = "TECO-640445-4_V"; UniqueID = "\TZDVLLSZ" ("\TZDVLLSZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "May-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2.5 mm, 1 x 4 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Temp Module" ("Temp Module"); Footprint = "TECO-640445-4_V"; UniqueID = "\MBTEEUHY" ("\MBTEEUHY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "May-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2.5 mm, 1 x 4 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Timer Changer" ("Timer Changer"); Footprint = "TECO-640445-4_V"; UniqueID = "\NFCVYUSG" ("\NFCVYUSG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "May-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2.5 mm, 1 x 4 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Timer Display" ("Timer Display"); Footprint = "TECO-640445-4_V"; UniqueID = "\LMQNOAOG" ("\LMQNOAOG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "May-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2.5 mm, 1 x 4 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"

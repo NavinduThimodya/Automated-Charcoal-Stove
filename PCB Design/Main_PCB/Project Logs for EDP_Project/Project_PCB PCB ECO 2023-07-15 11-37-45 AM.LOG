@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=18/D12 Pin=Mode LEDs-6
+Removed Pin From Net: NetName=19/D13 Pin=Motor Error Power-2
+Added Pin To Net: NetName=19/D13 Pin=Mode LEDs-6
+Added Pin To Net: NetName=18/D12 Pin=Motor Error Power-2

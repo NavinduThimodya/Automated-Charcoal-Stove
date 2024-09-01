@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=Vcc Pin=Temp +-3
+Removed Pin From Net: NetName=Vcc Pin=Timer +-3
+Removed Pin From Net: NetName=Vcc Pin=Timer --3
+Removed Member From Class: ClassName=Second_PCB Member=Temp +
+Removed Member From Class: ClassName=Second_PCB Member=Timer +
+Removed Member From Class: ClassName=Second_PCB Member=Timer -
+Added Component: Designator=Temp -?(SW_800AWSP9M2QE)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "800AWSP9M2QE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/800AWSP9M2QE/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Temp -?(SW_800AWSP9M2QE)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "800AWSP9M2QE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/800AWSP9M2QE/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Temp -?(SW_800AWSP9M2QE)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "800AWSP9M2QE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/800AWSP9M2QE/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vcc Pin=Temp -?-3
+Added Pin To Net: NetName=Vcc Pin=Temp -?-3
+Added Pin To Net: NetName=Vcc Pin=Temp -?-3
+Added Pin To Net: NetName=NetTemp -?_1 Pin=Temp -?-1
+Added Pin To Net: NetName=NetTemp -?_1 Pin=Timer -1
+Added Net: Name=NetTemp -?_1
+Add Net: Net with name "NetTemp -?_1" already exists
+Add Net: Net with name "NetTemp -?_1" already exists
+Added Member To Class: ClassName=Second_PCB Member=Component Temp -? 800AWSP9M2QE
+Added Member To Class: ClassName=Second_PCB Member=Component Temp -? 800AWSP9M2QE
+Added Member To Class: ClassName=Second_PCB Member=Component Temp -? 800AWSP9M2QE

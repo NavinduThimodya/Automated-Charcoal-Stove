@@ -1,0 +1,366 @@
+Change Component Footprint: Designator=Motor Error Power Old Footprint=TECO-640445-4_V New Footprint=TECO-640456-4
+Change Component Footprint: Designator=Temp Changer Old Footprint=TECO-640445-4_V New Footprint=TECO-640456-4
+Change Component Footprint: Designator=Temp Display Old Footprint=TECO-640445-4_V New Footprint=TECO-640456-4
+Change Component Footprint: Designator=Temp Module Old Footprint=TECO-640445-4_V New Footprint=TECO-640456-4
+Change Component Footprint: Designator=Timer Changer Old Footprint=TECO-640445-4_V New Footprint=TECO-640456-4
+Change Component Footprint: Designator=Timer Display Old Footprint=TECO-640445-4_V New Footprint=TECO-640456-4
+Change Component Comment : Designator=Motor Error Power Old Comment=640445-4 New Comment=640456-4
+Change Component Comment : Designator=Temp Changer Old Comment=640445-4 New Comment=640456-4
+Change Component Comment : Designator=Temp Display Old Comment=640445-4 New Comment=640456-4
+Change Component Comment : Designator=Temp Module Old Comment=640445-4 New Comment=640456-4
+Change Component Comment : Designator=Timer Changer Old Comment=640445-4 New Comment=640456-4
+Change Component Comment : Designator=Timer Display Old Comment=640445-4 New Comment=640456-4
+Change Managed Component Library Link : Designator=Motor Error Power Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=69B4D28D-5BE8-4CEE-95AF-4A3713A5536F Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=F628B617-B12E-4455-8EFD-5C3B2FDE544C
+Change Managed Component Library Link : Designator=Temp Changer Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=69B4D28D-5BE8-4CEE-95AF-4A3713A5536F Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=F628B617-B12E-4455-8EFD-5C3B2FDE544C
+Change Managed Component Library Link : Designator=Temp Display Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=69B4D28D-5BE8-4CEE-95AF-4A3713A5536F Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=F628B617-B12E-4455-8EFD-5C3B2FDE544C
+Change Managed Component Library Link : Designator=Temp Module Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=69B4D28D-5BE8-4CEE-95AF-4A3713A5536F Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=F628B617-B12E-4455-8EFD-5C3B2FDE544C
+Change Managed Component Library Link : Designator=Timer Changer Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=69B4D28D-5BE8-4CEE-95AF-4A3713A5536F Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=F628B617-B12E-4455-8EFD-5C3B2FDE544C
+Change Managed Component Library Link : Designator=Timer Display Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C1ECF30A-7FED-4EE8-8B4B-043A52D3E293 New ItemGUID=69B4D28D-5BE8-4CEE-95AF-4A3713A5536F Old RevisionGUID=A3A3D669-55C4-400F-97D3-F419172D058D New RevisionGUID=F628B617-B12E-4455-8EFD-5C3B2FDE544C
+Change component parameters: Designator = "Motor Error Power" ("Motor Error Power"); Footprint = "TECO-640445-4_V"; UniqueID = "\VWPGSVVK" ("\VWPGSVVK")
+Change component parameters (AddParameter): Name = "Agency Approvals"; Value = "CSA,UL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Angle"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Brand/Series"; Value = "MTA-100Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color, Housing"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "MTA-100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Centerline Spacing"; Value = "0.100
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Termination Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current, Rating"; Value = "5
+
+A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16286/eng-ds-82056-mta-0608-16286228.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Dec-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Overall"; Value = "0.4
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Pin"; Value = "0.14
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Terminal Post"; Value = "0.14
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Contact"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Housing"; Value = "Polyester"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Hole Size"; Value = "0.04
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "PCMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Spacing"; Value = "0.1
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Type"; Value = "InterconnectSystem"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size, Post"; Value = "0.025
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Special Features"; Value = "Pinstrip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standards"; Value = "RoHSCompliant,ELVCompliant,UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature, Operating"; Value = "-55to+105
+
+degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PCBPlug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage, Rating"; Value = "250
+
+V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Temp Changer" ("Temp Changer"); Footprint = "TECO-640445-4_V"; UniqueID = "\LRVIPQNK" ("\LRVIPQNK")
+Change component parameters (AddParameter): Name = "Agency Approvals"; Value = "CSA,UL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Angle"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Brand/Series"; Value = "MTA-100Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color, Housing"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "MTA-100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Centerline Spacing"; Value = "0.100
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Termination Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current, Rating"; Value = "5
+
+A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16286/eng-ds-82056-mta-0608-16286228.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Dec-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Overall"; Value = "0.4
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Pin"; Value = "0.14
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Terminal Post"; Value = "0.14
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Contact"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Housing"; Value = "Polyester"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Hole Size"; Value = "0.04
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "PCMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Spacing"; Value = "0.1
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Type"; Value = "InterconnectSystem"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size, Post"; Value = "0.025
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Special Features"; Value = "Pinstrip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standards"; Value = "RoHSCompliant,ELVCompliant,UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature, Operating"; Value = "-55to+105
+
+degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PCBPlug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage, Rating"; Value = "250
+
+V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Temp Display" ("Temp Display"); Footprint = "TECO-640445-4_V"; UniqueID = "\YOTBIMHB" ("\YOTBIMHB")
+Change component parameters (AddParameter): Name = "Agency Approvals"; Value = "CSA,UL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Angle"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Brand/Series"; Value = "MTA-100Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color, Housing"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "MTA-100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Centerline Spacing"; Value = "0.100
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Termination Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current, Rating"; Value = "5
+
+A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16286/eng-ds-82056-mta-0608-16286228.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Dec-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Overall"; Value = "0.4
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Pin"; Value = "0.14
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Terminal Post"; Value = "0.14
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Contact"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Housing"; Value = "Polyester"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Hole Size"; Value = "0.04
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "PCMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Spacing"; Value = "0.1
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Type"; Value = "InterconnectSystem"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size, Post"; Value = "0.025
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Special Features"; Value = "Pinstrip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standards"; Value = "RoHSCompliant,ELVCompliant,UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature, Operating"; Value = "-55to+105
+
+degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PCBPlug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage, Rating"; Value = "250
+
+V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Temp Module" ("Temp Module"); Footprint = "TECO-640445-4_V"; UniqueID = "\ZJOCCPCI" ("\ZJOCCPCI")
+Change component parameters (AddParameter): Name = "Agency Approvals"; Value = "CSA,UL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Angle"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Brand/Series"; Value = "MTA-100Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color, Housing"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "MTA-100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Centerline Spacing"; Value = "0.100
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Termination Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current, Rating"; Value = "5
+
+A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16286/eng-ds-82056-mta-0608-16286228.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Dec-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Overall"; Value = "0.4
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Pin"; Value = "0.14
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Terminal Post"; Value = "0.14
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Contact"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Housing"; Value = "Polyester"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Hole Size"; Value = "0.04
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "PCMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Spacing"; Value = "0.1
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Type"; Value = "InterconnectSystem"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size, Post"; Value = "0.025
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Special Features"; Value = "Pinstrip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standards"; Value = "RoHSCompliant,ELVCompliant,UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature, Operating"; Value = "-55to+105
+
+degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PCBPlug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage, Rating"; Value = "250
+
+V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Timer Changer" ("Timer Changer"); Footprint = "TECO-640445-4_V"; UniqueID = "\JXEZULDW" ("\JXEZULDW")
+Change component parameters (AddParameter): Name = "Agency Approvals"; Value = "CSA,UL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Angle"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Brand/Series"; Value = "MTA-100Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color, Housing"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "MTA-100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Centerline Spacing"; Value = "0.100
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Termination Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current, Rating"; Value = "5
+
+A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16286/eng-ds-82056-mta-0608-16286228.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Dec-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Overall"; Value = "0.4
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Pin"; Value = "0.14
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Terminal Post"; Value = "0.14
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Contact"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Housing"; Value = "Polyester"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Hole Size"; Value = "0.04
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "PCMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Spacing"; Value = "0.1
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Type"; Value = "InterconnectSystem"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size, Post"; Value = "0.025
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Special Features"; Value = "Pinstrip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standards"; Value = "RoHSCompliant,ELVCompliant,UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature, Operating"; Value = "-55to+105
+
+degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PCBPlug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage, Rating"; Value = "250
+
+V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Timer Display" ("Timer Display"); Footprint = "TECO-640445-4_V"; UniqueID = "\PZVMYYPZ" ("\PZVMYYPZ")
+Change component parameters (AddParameter): Name = "Agency Approvals"; Value = "CSA,UL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Angle"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Brand/Series"; Value = "MTA-100Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color, Housing"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "MTA-100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Centerline Spacing"; Value = "0.100
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Termination Area Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current, Rating"; Value = "5
+
+A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16286/eng-ds-82056-mta-0608-16286228.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Dec-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Overall"; Value = "0.4
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Pin"; Value = "0.14
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length, Terminal Post"; Value = "0.14
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Contact"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material, Housing"; Value = "Polyester"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Hole Size"; Value = "0.04
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "PCMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Spacing"; Value = "0.1
+
+""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Type"; Value = "InterconnectSystem"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size, Post"; Value = "0.025
+
+in."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Special Features"; Value = "Pinstrip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standards"; Value = "RoHSCompliant,ELVCompliant,UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature, Operating"; Value = "-55to+105
+
+degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PCBPlug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage, Rating"; Value = "250
+
+V"; VariantName = "[No Variations]"

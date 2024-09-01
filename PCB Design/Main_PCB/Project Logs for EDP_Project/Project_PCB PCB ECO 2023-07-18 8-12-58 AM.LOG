@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESAD640W45L370D200 New Footprint=RESAD700W45L350D185
+Change Component Footprint: Designator=R4 Old Footprint=RESAD640W45L370D200 New Footprint=RESAD700W45L350D185
+Change Component Footprint: Designator=R5 Old Footprint=RESAD640W45L370D200 New Footprint=RESAD700W45L350D185
+Change Component Comment : Designator=R1 Old Comment=1622194-1 New Comment=1623928-4
+Change Component Comment : Designator=R4 Old Comment=1622194-1 New Comment=1623928-4
+Change Component Comment : Designator=R5 Old Comment=1622194-1 New Comment=1623928-4
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESAD640W45L370D200"; UniqueID = "\JCNGBMCM" ("\JCNGBMCM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1623928-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESAD640W45L370D200"; UniqueID = "\TJIBPOHN" ("\TJIBPOHN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1623928-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESAD640W45L370D200"; UniqueID = "\GUGBKIQD" ("\GUGBKIQD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1623928-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

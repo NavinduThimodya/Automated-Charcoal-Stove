@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=11/D5 Pin=Timer Changer-1
+Removed Pin From Net: NetName=2/D0 Pin=Timer Changer-3
+Added Pin To Net: NetName=2/D0 Pin=Timer Changer-1
+Added Pin To Net: NetName=11/D5 Pin=Timer Changer-3

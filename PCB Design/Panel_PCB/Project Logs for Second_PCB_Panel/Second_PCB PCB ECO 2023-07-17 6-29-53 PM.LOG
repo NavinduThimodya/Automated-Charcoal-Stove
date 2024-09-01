@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetTemp Display_1 Pin=Temperature-1
+Removed Pin From Net: NetName=NetTemp Display_2 Pin=Temperature-2
+Removed Pin From Net: NetName=Vcc Pin=Temperature-3
+Removed Pin From Net: NetName=GND Pin=Temperature-4
+Removed Pin From Net: NetName=NetTemp +_1 Pin=Temperature-6
+Added Pin To Net: NetName=NetTemp +_1 Pin=Temperature-1
+Added Pin To Net: NetName=NetTemp Display_1 Pin=Temperature-2
+Added Pin To Net: NetName=NetTemp Display_2 Pin=Temperature-3
+Added Pin To Net: NetName=Vcc Pin=Temperature-4
+Added Pin To Net: NetName=GND Pin=Temperature-5
+Added Pin To Net: NetName=Vcc Pin=Temperature-6

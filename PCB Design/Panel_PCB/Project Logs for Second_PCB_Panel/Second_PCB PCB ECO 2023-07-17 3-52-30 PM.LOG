@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=Timer off? NewDesignator=Temp -
+Change Net Name : Old Net Name=NetTemperature_5 New Net Name=NetTemp -_1

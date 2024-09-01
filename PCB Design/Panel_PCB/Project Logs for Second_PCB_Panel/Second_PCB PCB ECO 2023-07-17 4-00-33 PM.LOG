@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=MODE ? NewDesignator=Error LED
+Change Component Designator: OldDesignator=MODE ? NewDesignator=Power LED
+Change Net Name : Old Net Name=NetMODE ?_A New Net Name=NetPower LED_A
+Added Pin To Net: NetName=NetError LED_A Pin=Error LED-A
+Added Pin To Net: NetName=NetError LED_A Pin=Power, Error & Timer off-4
+Added Net: Name=NetError LED_A
+Added Member To Class: ClassName=Second_PCB Member=Component Error LED WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component MODE 3 WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component MODE 5 WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component Power LED WP7113SEC/J3

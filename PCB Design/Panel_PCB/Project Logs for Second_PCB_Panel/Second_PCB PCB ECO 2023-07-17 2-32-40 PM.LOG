@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=GND Pin=MODE 1 -C
+Removed Pin From Net: NetName=GND Pin=MODE 5 -C
+Removed Pin From Net: NetName=Vcc Pin=Temporature-3
+Removed Pin From Net: NetName=GND Pin=Temporature-4
+Removed Pin From Net: NetName=NetTimer _3 Pin=Timer-1
+Removed Pin From Net: NetName=NetTimer _4 Pin=Timer-2
+Removed Pin From Net: NetName=Vcc Pin=Timer-3
+Removed Pin From Net: NetName=GND Pin=Timer-4
+Removed Member From Class: ClassName=Second_PCB Member=2222
+Removed Member From Class: ClassName=Second_PCB Member=J?
+Removed Member From Class: ClassName=Second_PCB Member=MODE 1 
+Removed Member From Class: ClassName=Second_PCB Member=MODE 5 
+Removed Member From Class: ClassName=Second_PCB Member=S?
+Removed Member From Class: ClassName=Second_PCB Member=Temporature
+Removed Member From Class: ClassName=Second_PCB Member=Timer
+Added Component: Designator=MODE 1(LED_WP7113SEC/J3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113SEC/J3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113SEC/J3/Kingbright/view-part/826989/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MODE 5(LED_WP7113SEC/J3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113SEC/J3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113SEC/J3/Kingbright/view-part/826989/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Temp Display(TE_2-826926-0)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-826926-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-826926-0/TE%20Connectivity%20AMP%20Connectors/view-part/1399270/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Timer Display(TE_2-826926-0)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-826926-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-826926-0/TE%20Connectivity%20AMP%20Connectors/view-part/1399270/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MODE 1-C
+Added Pin To Net: NetName=GND Pin=MODE 5-C
+Added Pin To Net: NetName=Vcc Pin=Temp Display-3
+Added Pin To Net: NetName=GND Pin=Temp Display-4
+Added Pin To Net: NetName=NetTimer _3 Pin=Timer Display-1
+Added Pin To Net: NetName=NetTimer _4 Pin=Timer Display-2
+Added Pin To Net: NetName=Vcc Pin=Timer Display-3
+Added Pin To Net: NetName=GND Pin=Timer Display-4
+Added Pin To Net: NetName=NetMODE 1_A Pin=MODE 1-A
+Added Pin To Net: NetName=NetMODE 1_A Pin=Mode LED , Changer-1
+Added Net: Name=NetMODE 1_A
+Added Pin To Net: NetName=NetMODE 5_A Pin=MODE 5-A
+Added Pin To Net: NetName=NetMODE 5_A Pin=Mode LED , Changer-5
+Added Net: Name=NetMODE 5_A
+Added Pin To Net: NetName=NetTemp Display_1 Pin=Temp Display-1
+Added Pin To Net: NetName=NetTemp Display_1 Pin=Temperature-1
+Added Net: Name=NetTemp Display_1
+Added Pin To Net: NetName=NetTemp Display_2 Pin=Temp Display-2
+Added Pin To Net: NetName=NetTemp Display_2 Pin=Temperature-2
+Added Net: Name=NetTemp Display_2
+Added Member To Class: ClassName=Second_PCB Member=Component MODE 1 WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component MODE 5 WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component Temp Display 2-826926-0
+Added Member To Class: ClassName=Second_PCB Member=Component Timer Display 2-826926-0

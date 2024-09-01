@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=14/D8 Pin=Temp Changer-3
+Removed Pin From Net: NetName=13/D7 Pin=Temp Changer-4
+Added Pin To Net: NetName=13/D7 Pin=Temp Changer-3
+Added Pin To Net: NetName=14/D8 Pin=Temp Changer-4

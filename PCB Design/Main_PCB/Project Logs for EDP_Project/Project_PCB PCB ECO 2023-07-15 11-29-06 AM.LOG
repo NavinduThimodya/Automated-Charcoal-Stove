@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=2/D0 Pin=Temp Module-3
+Removed Pin From Net: NetName=15/D9 Pin=Timer Changer-3
+Added Pin To Net: NetName=15/D9 Pin=Temp Module-3
+Added Pin To Net: NetName=2/D0 Pin=Timer Changer-3

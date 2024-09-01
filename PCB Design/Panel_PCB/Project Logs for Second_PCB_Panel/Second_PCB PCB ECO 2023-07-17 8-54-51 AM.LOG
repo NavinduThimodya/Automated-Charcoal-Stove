@@ -1,0 +1,265 @@
+Removed Member From Class: ClassName=Second_PCB Member=Temp Changer?
+Change Component Designator: OldDesignator=D NewDesignator=Error LED
+Change Component Designator: OldDesignator=J? NewDesignator=Temporature
+Change Component Designator: OldDesignator=Mode LEDs? NewDesignator=Timer 
+Change Component Designator: OldDesignator=S? NewDesignator=Temp -
+Change Component Designator: OldDesignator=Temp Changer? NewDesignator=Power, Error & Timer off
+Added Component: Designator=MODE 1 (LED_WP7113SEC/J3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113SEC/J3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113SEC/J3/Kingbright/view-part/826989/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MODE 2(LED_WP7113SEC/J3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113SEC/J3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113SEC/J3/Kingbright/view-part/826989/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MODE 3(LED_WP7113SEC/J3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113SEC/J3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113SEC/J3/Kingbright/view-part/826989/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MODE 4(LED_WP7113SEC/J3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113SEC/J3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113SEC/J3/Kingbright/view-part/826989/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MODE 5 (LED_WP7113SEC/J3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113SEC/J3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113SEC/J3/Kingbright/view-part/826989/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mode Changer(SW_800AWSP9M2QE)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "800AWSP9M2QE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/800AWSP9M2QE/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mode LED , Changer(FP-22-28-4060-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.24inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.49mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.24mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "250.25kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "KK® 42375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=Power LED(LED_WP7113SEC/J3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113SEC/J3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113SEC/J3/Kingbright/view-part/826989/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Temp +(SW_800AWSP9M2QE)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "800AWSP9M2QE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/800AWSP9M2QE/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Temperature(FP-22-28-4060-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.24inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.49mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.24mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "250.25kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "KK® 42375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=Timer +(SW_800AWSP9M2QE)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "800AWSP9M2QE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/800AWSP9M2QE/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Timer -(SW_800AWSP9M2QE)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "800AWSP9M2QE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/800AWSP9M2QE/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Timer off(SW_800AWSP9M2QE)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "800AWSP9M2QE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/800AWSP9M2QE/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/800AWSP9M2QE/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Timer(TE_2-826926-0)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-826926-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-826926-0/TE%20Connectivity%20AMP%20Connectors/view-part/1399270/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Error LED-C
+Added Pin To Net: NetName=GND Pin=MODE 1 -C
+Added Pin To Net: NetName=GND Pin=MODE 2-C
+Added Pin To Net: NetName=GND Pin=MODE 3-C
+Added Pin To Net: NetName=GND Pin=MODE 4-C
+Added Pin To Net: NetName=GND Pin=MODE 5 -C
+Added Pin To Net: NetName=GND Pin=Power LED-C
+Added Pin To Net: NetName=GND Pin=Temperature-4
+Added Pin To Net: NetName=GND Pin=Temporature-4
+Added Pin To Net: NetName=GND Pin=Timer-4
+Added Pin To Net: NetName=GND Pin=Timer -6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetError LED_A Pin=Error LED-A
+Added Pin To Net: NetName=NetError LED_A Pin=Power, Error & Timer off-4
+Added Net: Name=NetError LED_A
+Added Pin To Net: NetName=NetMODE 1 _A Pin=MODE 1 -A
+Added Pin To Net: NetName=NetMODE 1 _A Pin=Mode LED , Changer-1
+Added Net: Name=NetMODE 1 _A
+Added Pin To Net: NetName=NetMODE 2_A Pin=MODE 2-A
+Added Pin To Net: NetName=NetMODE 2_A Pin=Mode LED , Changer-2
+Added Net: Name=NetMODE 2_A
+Added Pin To Net: NetName=NetMODE 3_A Pin=MODE 3-A
+Added Pin To Net: NetName=NetMODE 3_A Pin=Mode LED , Changer-3
+Added Net: Name=NetMODE 3_A
+Added Pin To Net: NetName=NetMODE 4_A Pin=MODE 4-A
+Added Pin To Net: NetName=NetMODE 4_A Pin=Mode LED , Changer-4
+Added Net: Name=NetMODE 4_A
+Added Pin To Net: NetName=NetMODE 5 _A Pin=MODE 5 -A
+Added Pin To Net: NetName=NetMODE 5 _A Pin=Mode LED , Changer-5
+Added Net: Name=NetMODE 5 _A
+Added Pin To Net: NetName=NetMode Changer_1 Pin=Mode Changer-1
+Added Pin To Net: NetName=NetMode Changer_1 Pin=Mode LED , Changer-6
+Added Net: Name=NetMode Changer_1
+Added Pin To Net: NetName=NetPower, Error & Timer off_2 Pin=Power, Error & Timer off-2
+Added Pin To Net: NetName=NetPower, Error & Timer off_2 Pin=Timer off-3
+Added Net: Name=NetPower, Error & Timer off_2
+Added Pin To Net: NetName=NetPower LED_A Pin=Power LED-A
+Added Pin To Net: NetName=NetPower LED_A Pin=Power, Error & Timer off-1
+Added Net: Name=NetPower LED_A
+Added Pin To Net: NetName=NetTemp +_1 Pin=Temp +-1
+Added Pin To Net: NetName=NetTemp +_1 Pin=Temperature-6
+Added Net: Name=NetTemp +_1
+Added Pin To Net: NetName=NetTemp -_1 Pin=Temp --1
+Added Pin To Net: NetName=NetTemp -_1 Pin=Temperature-5
+Added Net: Name=NetTemp -_1
+Added Pin To Net: NetName=NetTemperature_1 Pin=Temperature-1
+Added Pin To Net: NetName=NetTemperature_1 Pin=Temporature-1
+Added Net: Name=NetTemperature_1
+Added Pin To Net: NetName=NetTemperature_2 Pin=Temperature-2
+Added Pin To Net: NetName=NetTemperature_2 Pin=Temporature-2
+Added Net: Name=NetTemperature_2
+Added Pin To Net: NetName=NetTimer +_1 Pin=Timer -1
+Added Pin To Net: NetName=NetTimer +_1 Pin=Timer +-1
+Added Net: Name=NetTimer +_1
+Added Pin To Net: NetName=NetTimer -_1 Pin=Timer -2
+Added Pin To Net: NetName=NetTimer -_1 Pin=Timer --1
+Added Net: Name=NetTimer -_1
+Added Pin To Net: NetName=NetTimer _3 Pin=Timer-1
+Added Pin To Net: NetName=NetTimer _3 Pin=Timer -3
+Added Net: Name=NetTimer _3
+Added Pin To Net: NetName=NetTimer _4 Pin=Timer-2
+Added Pin To Net: NetName=NetTimer _4 Pin=Timer -4
+Added Net: Name=NetTimer _4
+Added Pin To Net: NetName=Vcc Pin=Mode Changer-3
+Added Pin To Net: NetName=Vcc Pin=Temp +-3
+Added Pin To Net: NetName=Vcc Pin=Temp --3
+Added Pin To Net: NetName=Vcc Pin=Temperature-3
+Added Pin To Net: NetName=Vcc Pin=Temporature-3
+Added Pin To Net: NetName=Vcc Pin=Timer-3
+Added Pin To Net: NetName=Vcc Pin=Timer -5
+Added Pin To Net: NetName=Vcc Pin=Timer +-3
+Added Pin To Net: NetName=Vcc Pin=Timer --3
+Added Pin To Net: NetName=Vcc Pin=Timer off-1
+Added Net: Name=Vcc
+Added Member To Class: ClassName=Second_PCB Member=Component MODE 1  WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component MODE 2 WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component MODE 3 WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component MODE 4 WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component MODE 5  WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component Mode Changer 800AWSP9M2QE
+Added Member To Class: ClassName=Second_PCB Member=Component Mode LED , Changer 22-28-4060
+Added Member To Class: ClassName=Second_PCB Member=Component Power, Error & Timer off 640456-4
+Added Member To Class: ClassName=Second_PCB Member=Component Power LED WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component Temp + 800AWSP9M2QE
+Added Member To Class: ClassName=Second_PCB Member=Component Temperature 22-28-4060
+Added Member To Class: ClassName=Second_PCB Member=Component Timer + 800AWSP9M2QE
+Added Member To Class: ClassName=Second_PCB Member=Component Timer - 800AWSP9M2QE
+Added Member To Class: ClassName=Second_PCB Member=Component Timer off 800AWSP9M2QE
+Added Member To Class: ClassName=Second_PCB Member=Component Timer 2-826926-0

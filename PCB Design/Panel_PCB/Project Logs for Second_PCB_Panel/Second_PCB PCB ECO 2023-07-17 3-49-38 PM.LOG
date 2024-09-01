@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=Vcc Pin=S?-1
+Added Pin To Net: NetName=NetPower, Error & Timer off_2 Pin=Power, Error & Timer off-2
+Added Pin To Net: NetName=NetPower, Error & Timer off_2 Pin=S?-3
+Added Net: Name=NetPower, Error & Timer off_2
+Added Member To Class: ClassName=Second_PCB Member=Component S? 800AWSP9M2QE

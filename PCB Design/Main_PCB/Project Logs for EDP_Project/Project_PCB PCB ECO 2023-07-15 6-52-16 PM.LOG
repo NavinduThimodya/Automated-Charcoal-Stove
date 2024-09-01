@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=9 Pin=16MHz-1
+Removed Pin From Net: NetName=10 Pin=16MHz-2
+Removed Member From Class: ClassName=PCB_Schematic Member=16MHz

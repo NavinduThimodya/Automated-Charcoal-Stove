@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=Temp -? NewDesignator=Temp +
+Change Component Designator: OldDesignator=Temp -? NewDesignator=Timer +
+Change Component Designator: OldDesignator=Temp -? NewDesignator=Timer -
+Change Net Name : Old Net Name=NetTemp -?_1 New Net Name=NetTimer +_1
+Added Pin To Net: NetName=NetTemp +_1 Pin=Temp +-1
+Added Pin To Net: NetName=NetTemp +_1 Pin=Temperature-6
+Added Net: Name=NetTemp +_1
+Added Pin To Net: NetName=NetTimer -_1 Pin=Timer -2
+Added Pin To Net: NetName=NetTimer -_1 Pin=Timer --1
+Added Net: Name=NetTimer -_1
+Added Member To Class: ClassName=Second_PCB Member=Component Temp + 800AWSP9M2QE
+Added Member To Class: ClassName=Second_PCB Member=Component Timer - 800AWSP9M2QE

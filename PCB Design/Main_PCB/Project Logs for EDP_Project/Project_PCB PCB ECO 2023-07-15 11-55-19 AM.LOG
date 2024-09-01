@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=18/D12 Pin=Motor Error Power-2
+Removed Pin From Net: NetName=17/D11 Pin=Motor Error Power-3
+Removed Pin From Net: NetName=16/D10 Pin=Motor Error Power-4
+Removed Pin From Net: NetName=15/D9 Pin=Temp Module-3
+Added Pin To Net: NetName=17/D11 Pin=Motor Error Power-2
+Added Pin To Net: NetName=16/D10 Pin=Motor Error Power-3
+Added Pin To Net: NetName=15/D9 Pin=Motor Error Power-4
+Added Pin To Net: NetName=18/D12 Pin=Temp Module-3

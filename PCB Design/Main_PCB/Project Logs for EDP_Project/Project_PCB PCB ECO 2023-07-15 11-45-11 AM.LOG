@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5/D3 Pin=Temp Display-3
+Removed Pin From Net: NetName=4/D2 Pin=Temp Display-4
+Removed Pin From Net: NetName=3/D1 Pin=Timer Display-4
+Added Pin To Net: NetName=4/D2 Pin=Temp Display-3
+Added Pin To Net: NetName=3/D1 Pin=Temp Display-4
+Added Pin To Net: NetName=5/D3 Pin=Timer Display-4

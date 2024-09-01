@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=MODE 2-C
+Removed Pin From Net: NetName=GND Pin=MODE 3-C
+Removed Pin From Net: NetName=GND Pin=MODE 4-C
+Removed Member From Class: ClassName=Second_PCB Member=MODE 2
+Removed Member From Class: ClassName=Second_PCB Member=MODE 3
+Removed Member From Class: ClassName=Second_PCB Member=MODE 4
+Change Component Designator: OldDesignator=Timer +? NewDesignator=MODE Changer
+Added Component: Designator=MODE ?(LED_WP7113SEC/J3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113SEC/J3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113SEC/J3/Kingbright/view-part/826989/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MODE ?(LED_WP7113SEC/J3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113SEC/J3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113SEC/J3/Kingbright/view-part/826989/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MODE ?(LED_WP7113SEC/J3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WP7113SEC/J3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP7113SEC/J3/Kingbright/view-part/826989/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MODE ?-C
+Added Pin To Net: NetName=GND Pin=MODE ?-C
+Added Pin To Net: NetName=GND Pin=MODE ?-C
+Change Net Name : Old Net Name=NetMode LED , Changer_6 New Net Name=NetMODE Changer_1
+Added Pin To Net: NetName=NetMODE ?_A Pin=MODE ?-A
+Added Pin To Net: NetName=NetMODE ?_A Pin=Mode LED , Changer-4
+Added Net: Name=NetMODE ?_A
+Add Net: Net with name "NetMODE ?_A" already exists
+Add Net: Net with name "NetMODE ?_A" already exists
+Added Member To Class: ClassName=Second_PCB Member=Component MODE ? WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component MODE ? WP7113SEC/J3
+Added Member To Class: ClassName=Second_PCB Member=Component MODE ? WP7113SEC/J3

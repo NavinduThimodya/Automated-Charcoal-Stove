@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Vcc Pin=Temp --1
+Removed Pin From Net: NetName=Vcc Pin=Timer -4
+Removed Pin From Net: NetName=Vcc Pin=Timer --3
+Removed Pin From Net: NetName=Vcc Pin=Timer Display-3
+Removed Pin From Net: NetName=Vcc Pin=Timer off-1
+Added Pin To Net: NetName=Vcc1 Pin=Timer -4
+Added Pin To Net: NetName=Vcc1 Pin=Timer --3
+Added Pin To Net: NetName=Vcc1 Pin=Timer Display-3
+Added Pin To Net: NetName=Vcc1 Pin=Timer off-1
+Added Net: Name=Vcc1
